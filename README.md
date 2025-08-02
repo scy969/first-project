@@ -168,7 +168,7 @@ graph LR
 
 
 *Как это работает:*<br>
-1. Новый файл (```Untracked```) →``` git ad```d  ```Staged```.
-2. Изменённый файл (```Modified```) →``` git ad```d  ```Staged```.
-3. ```Staged``` →``` git commi```t  ```Tracked``` (попадает в историю Git).
-4. Если файл ```Tracked``` изменяется → снова``` Modifie```d.
+1. Новый файл (```Untracked```) --> ```git add``` --> ```Staged```.
+2. Изменённый файл (```Modified```) --> ```git add''' --> ```Staged```.
+3. ```Staged``` --> ```git commit``` --> ```Tracked``` (попадает в историю Git).
+4. Если файл ```Tracked``` изменяется -->  снова ```Modified```.
